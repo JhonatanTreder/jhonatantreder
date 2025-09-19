@@ -4,7 +4,7 @@
 **`Estudante Full-Stack`**
 
 Me chamo **Jhonatan Treder**, tenho 19 anos e estou cursando **Análise e Desenvolvimento de Sistemas**. A área de **Técnologia da Informação** sempre me fascinou de um modo geral,
-desde a nível de hardware até ao entendimento de como sistemas ou aplicações podem se comportam entre si. Em todo esse meio de preferências, inicialmente eu escolhi o desenvolvimento **Back-End** como caminho a ser trilhado, pois é uma área na qual eu me interessei bastante e desde então continuo mostrando o mesmo nível de interesse. Áreas como **CyberSecurity** e **Desenvolvimento Full-Stack** também me despertam um certo nível de curiosidade. <br>
+desde a nível de hardware até ao entendimento de como sistemas ou aplicações podem se comportar entre si. Em todo esse meio de preferências, inicialmente eu escolhi o desenvolvimento **Back-End** como caminho a ser trilhado, pois é uma área na qual eu me interessei bastante e desde então continuo mostrando o mesmo nível de interesse. Áreas como **CyberSecurity** e **Desenvolvimento Full-Stack** também me despertam um certo nível de curiosidade. <br>
 
 <div>
   <a href="mailto:jhonatan.treder@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
