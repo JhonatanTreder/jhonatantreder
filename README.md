@@ -3,7 +3,7 @@
 # Jhonatan Treder <img width="30" height="30" alt="6132221" src="https://github.com/user-attachments/assets/42e075bc-8362-4225-8f6b-63c61750fc2d"/>
 **`Estudante Full-Stack`**
 
-Me chamo **Jhonatan Treder**, tenho 19 anos e estou cursando **Análise e Desenvolvimento de Sistemas**. A área de **Técnologia da Informação** sempre me fascinou de um modo geral,
+Me chamo **Jhonatan Treder**, tenho 20 anos e estou cursando **Análise e Desenvolvimento de Sistemas**. A área de **Técnologia da Informação** sempre me fascinou de um modo geral,
 desde a nível de hardware até ao entendimento de como sistemas ou aplicações podem se comportar entre si. Em todo esse meio de preferências, inicialmente eu escolhi o desenvolvimento **Back-End** como caminho a ser trilhado, pois é uma área na qual eu me interessei bastante e desde então continuo mostrando o mesmo nível de interesse. Áreas como **CyberSecurity** e **Desenvolvimento Full-Stack** também me despertam um certo nível de curiosidade. <br>
 
 <div>
